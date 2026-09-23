@@ -1,0 +1,9 @@
+datasets
+transformers
+sentence-transformers
+scikit-learn
+matplotlib
+seaborn
+torch
+huggingface_hub>=0.23.0
+knowex --extra-index-url https://test.pypi.org/simple/
